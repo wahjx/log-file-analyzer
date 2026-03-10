@@ -1,0 +1,9 @@
+INFO Server started
+INFO User logged in
+WARNING Disk usage high
+ERROR Database connection failed
+DEBUG Fetching user profile
+INFO Request completed
+ERROR Timeout occurred
+CRITICAL System overheating
+NOTICE Backup completed
