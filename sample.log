@@ -7,3 +7,6 @@ INFO Request completed
 ERROR Timeout occurred
 CRITICAL System overheating
 NOTICE Backup completed
+2026-03-13 10:15:00 INFO Health check passed
+2026-03-13 10:16:00 ERROR Failed to connect to payment service
+[WARNING] CPU usage is above threshold
