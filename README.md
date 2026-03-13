@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Project-Simple%20Tool-orange)
 
-A simple **Python command-line tool** that analyzes log files and counts the number of **INFO**, **WARNING**, and **ERROR** messages.
+ **Python command-line tool** that analyzes log files and counts the number of **INFO**, **WARNING**, and **ERROR** messages.
 
 This project demonstrates basic Python skills such as:
 
@@ -150,3 +150,4 @@ Possible improvements:
 
 GitHub:  
 https://github.com/wahjx
+
